@@ -73,7 +73,6 @@ PRODUCT_PACKAGES += \
     VideoEditor \
     VoiceDialer \
     SoundRecorder \
-    SpeechRecorder \
     Basic \
     HoloSpiralWallpaper \
     MagicSmokeWallpapers \
