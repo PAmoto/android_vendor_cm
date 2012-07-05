@@ -109,7 +109,10 @@ PRODUCT_PACKAGES += \
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
-    openvpn
+    openvpn \
+    e2fsck \
+    mke2fs \
+    tune2fs
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
