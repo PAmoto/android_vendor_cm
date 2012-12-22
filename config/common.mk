@@ -95,7 +95,8 @@ PRODUCT_PACKAGES += \
     LiveWallpapers \
     LiveWallpapersPicker \
     VisualizationWallpapers \
-    PhaseBeam
+    PhaseBeam \
+    HwaSettings
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
